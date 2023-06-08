@@ -13,21 +13,7 @@ namespace DominoTrain
 
         public override bool IsPlayable(Hand h, Domino d, out bool mustFlip)
         {
-            if (PlayableValue == d.Side1)
-            {
-                mustFlip = false;
-                return true;
-            }
-            else if (PlayableValue == d.Side2)
-            {
-                mustFlip = true;
-                return true;
-            }
-            else
-            {
-                mustFlip = false;
-                return false;
-            }
+            return base.IsPlayable(d, out mustFlip);
         }
     }
 }

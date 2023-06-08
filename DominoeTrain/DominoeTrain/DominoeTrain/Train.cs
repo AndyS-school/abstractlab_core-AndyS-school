@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DominoTrain
 {
-    public abstract class Train
+    public abstract class Train: IEnumerable<Domino>
     {
         protected List<Domino> dominoes;
         protected int engineValue;
@@ -135,6 +135,11 @@ namespace DominoTrain
             }
             output += "\n";
             return output;
+        }
+
+        public int CompareTo(Domino other)
+        {
+            return int.Compare(this.Score, other.Score, StringComparison.OrdinalIgnoreCase);
         }
     }
 }

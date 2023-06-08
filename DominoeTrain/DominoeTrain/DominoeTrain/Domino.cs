@@ -10,7 +10,7 @@ namespace DominoTrain
     /// This class represents an individual domino
     /// </summary>
     [Serializable()]
-    public class Domino
+    public class Domino: IComparable<Domino>
     {
         private int side1;
         private int side2;
@@ -131,6 +131,11 @@ namespace DominoTrain
         public override int GetHashCode()
         {
             return ToString().GetHashCode();
+        }
+
+        public int CompareTo(Domino other)
+        {
+            return String.Compare(this.Score, other.Score, StringComparison.OrdinalIgnoreCase);
         }
     }
 }
