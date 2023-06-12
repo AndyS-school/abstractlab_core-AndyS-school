@@ -135,7 +135,7 @@ namespace DominoTrain
 
         public int CompareTo(Domino other)
         {
-            return String.Compare(this.Score, other.Score, StringComparison.OrdinalIgnoreCase);
+            return Score.CompareTo(other.Score);
         }
     }
 }

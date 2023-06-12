@@ -1,0 +1,16 @@
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.csproj.AssemblyReference.cache
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.AssemblyInfoInputs.cache
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.AssemblyInfo.cs
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.csproj.CoreCompileInputs.cache
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.exe
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.deps.json
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.runtimeconfig.json
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.runtimeconfig.dev.json
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.dll
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\ref\DominoTrain.dll
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\bin\Debug\net5.0\DominoTrain.pdb
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.dll
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\ref\DominoTrain.dll
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.pdb
+D:\Schoolin\Spring 2023\CS2_Lab7\abstractlab_core-AndyS-school\DominoeTrain\DominoeTrain\DominoeTrain\obj\Debug\net5.0\DominoTrain.genruntimeconfig.cache

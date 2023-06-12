@@ -328,5 +328,9 @@ namespace DominoTrain
             output += "\n";
             return output;
         }
+        public void Sort()
+        {
+            handOfDominos.Sort();
+        }
     }
 }

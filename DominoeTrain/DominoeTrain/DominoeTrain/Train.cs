@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -136,10 +137,15 @@ namespace DominoTrain
             output += "\n";
             return output;
         }
-
-        public int CompareTo(Domino other)
+        //automatic implimentation
+        public IEnumerator<Domino> GetEnumerator()
         {
-            return int.Compare(this.Score, other.Score, StringComparison.OrdinalIgnoreCase);
+            return ((IEnumerable<Domino>)dominoes).GetEnumerator();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return ((IEnumerable)dominoes).GetEnumerator();
         }
     }
 }
